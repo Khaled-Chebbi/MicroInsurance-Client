@@ -1,4 +1,4 @@
-package Controllers;
+package tn.esprit.microInsurance.controllers;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
